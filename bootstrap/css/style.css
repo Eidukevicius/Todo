@@ -1,0 +1,40 @@
+.arrow-drop-up{
+    width: 1.25rem;
+    margin-left: 5rem;
+}
+
+img{
+    width: 1.875rem;
+}
+
+.priority-red{
+    border-radius: 0.938rem;
+    background-color: red;
+    width: 4.375rem;
+    height: 1.875rem;
+    text-align: center;
+    color: white;
+}
+
+.priority-green{
+    border-radius: 0.938rem;
+    background-color: rgb(0, 255, 55);
+    width: 4.375rem;
+    height: 1.875rem;
+    text-align: center;
+    color: white;
+}
+
+.priority-blue{
+    border-radius: 0.938rem;
+    background-color: rgb(0, 164, 230);
+    width: 4.375rem;
+    height: 30px;
+    text-align: center;
+    color: white;
+}
+
+table{
+    margin-top: 60px;
+}
+
